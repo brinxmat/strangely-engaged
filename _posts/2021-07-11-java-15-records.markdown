@@ -37,14 +37,17 @@ public record Painting(Dimensions dimensions) {}
 
 ```
 
-Dimensions.java
+Dimensions.java[*](#clarification)
 ```java
 package org.example.record;
 
 public record Dimensions(int height, int width) {}
 
 ```
-## Conclusion
+## Summed up
 With records, boilerplate class declarations, getters, equals and hashcode are replaced by a single record class declaration.
 
 For more information, see Oracle's [Java 15 Java Language Updates](https://docs.oracle.com/en/java/javase/15/language/records.html).
+
+---
+<a href="clarification"></a>* Ignoring that we haven't specified a unit such as centimetre/inch
