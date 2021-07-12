@@ -31,7 +31,7 @@ github_username:  brinxmat
 theme: minima
 plugins:
   - jekyll-feed
-
+google_ad_client: ca-pub-5263962175873300
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
