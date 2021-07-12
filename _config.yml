@@ -32,6 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 google_ad_client: ca-pub-5263962175873300
+google_analytics: G-WJSRDK38EP
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
