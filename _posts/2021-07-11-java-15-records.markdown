@@ -50,4 +50,4 @@ With records, boilerplate class declarations, getters, equals and hashcode are r
 For more information, see Oracle's [Java 15 Java Language Updates](https://docs.oracle.com/en/java/javase/15/language/records.html).
 
 ---
-<a href="clarification"></a>* Ignoring that we haven't specified a unit such as centimetre/inch
+<a href="#clarification"></a>* Ignoring that we haven't specified a unit such as centimetre/inch
